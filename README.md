@@ -12,4 +12,18 @@ because it preseves the history
 
 How to resolve git conflict:-
 
+When we are getting merge conflict
+we check the status & go through the files , modified that files
+git add then commit that code
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Git Reset:
+
+       Git reset is used to reset the changes in staging are in to working directory.
+       
+       Git reset --Soft
+       Git reset --mixed
+       git reset --hard
+
 
